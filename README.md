@@ -63,10 +63,10 @@ Your core challenge is to locate all seven pieces of evidence, verify their cont
 
   The password is complete with its wordings, The requirement it to find and Arange them.
 
-  eg:- (I_Am_hacking@2025) will be fragments of (I_Am)(_hack)(ing@2)(025)
+  eg:- (I_Am_hacking@2025) will be fragmented into (I_Am)(_hack)(ing@2)(025)
 
 
-⚠️ CRITICAL ETHICAL & LEGAL NOTICE ⚠️
+*_⚠️ CRITICAL ETHICAL & LEGAL NOTICE ⚠️_*
 
 This project is a sanctioned educational exercise. All data, accounts, and targets involved are mock, staged, and controlled environments explicitly set up for this challenge.
 
