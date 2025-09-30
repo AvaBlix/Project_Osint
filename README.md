@@ -14,7 +14,7 @@ Successful completion involves:
 
 >Constructing the Access Key: Combining these seven fragments in the correct order to form the full password.
 
->Accessing the Secure File: Using the constructed password to unlock the final challenge file: The Reward Vault [Google Drive Link].
+>Accessing the Secure File: Using the constructed password to unlock the final challenge file: The Reward Vault https://docs.google.com/document/d/10I9JBSt10OR9u5kWdojbSlFZLdcmPQ_Q/edit?usp=sharing&ouid=117809181080010608013&rtpof=true&sd=true.
 
 >Retrieving the Code: Finding the secret reward code (the "flag") hidden inside the accessed file.
 
