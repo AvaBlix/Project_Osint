@@ -66,7 +66,7 @@ Your core challenge is to locate all seven pieces of evidence, verify their cont
   eg:- (I_Am_hacking@2025) will be fragmented into (I_Am)(_hack)(ing@2)(025)
 
 
-*_⚠️ CRITICAL ETHICAL & LEGAL NOTICE ⚠️_*
+*/⚠️ CRITICAL ETHICAL & LEGAL NOTICE ⚠️/*
 
 This project is a sanctioned educational exercise. All data, accounts, and targets involved are mock, staged, and controlled environments explicitly set up for this challenge.
 
