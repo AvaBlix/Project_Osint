@@ -1,9 +1,9 @@
-🏆 Project_Osint: The OSINT Challenge 🕵️
+*/🏆 Project_Osint: The OSINT Challenge 🕵️/*
 
 A collegiate challenge designed to introduce students to Open-Source Intelligence (OSINT) and cybersecurity through a practical, hands-on, simulated scenario.
 
 
-🎯 Goal of the Challenge
+*/🎯 Goal of the Challenge/*
 
 The primary objective is for participants to utilize publicly available information (OSINT) to piece together the seven (7) distinct fragments of a secret access key.
 
@@ -20,7 +20,7 @@ Successful completion involves:
 
   Submitting the Code: Submitting the code via the official submission link to complete the challenge.
 
-🔒 The Final Lock: Accessing the Reward File
+*/🔒 The Final Lock: Accessing the Reward File/*
 
 The ultimate goal is to gain access to a specific Google Drive File (Document or Sheet) that contains the final code.
 
@@ -32,7 +32,7 @@ The ultimate goal is to gain access to a specific Google Drive File (Document or
   Link: The direct link to this file is provided here: [Insert Google Drive Shareable Link Here]
 
 
-🧩 The Password Structure: A Seven-Part Mystery
+*/🧩 The Password Structure: A Seven-Part Mystery/*
 
 The secret access key is a complex, alphanumeric sequence built from seven distinct fragments that you must locate and assemble. Think of it as a seven-piece jigsaw puzzle scattered across the public internet.
 
@@ -78,7 +78,7 @@ This project is a sanctioned educational exercise. All data, accounts, and targe
   Any unauthorized or malicious use of these methods will result in immediate disqualification.
 
 
-💡 Learning Outcomes
+*/💡 Learning Outcomes/*
 
 By completing this challenge, students will gain practical experience in:
 
@@ -91,7 +91,7 @@ By completing this challenge, students will gain practical experience in:
 
   Ethical Hacking Mindset
 
-🤝 Contribution & Support
+*/🤝 Contribution & Support/*
 
 This project is maintained by "Project_Osint_Group" for educational purposes. For support or queries regarding the rules and scope of the challenge, please contact: "theosintprojectgroup@gmail.com".
 
