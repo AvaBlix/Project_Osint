@@ -20,6 +20,9 @@ Successful completion involves:
 
 >Submitting the Code: Submitting the code via the official submission link to complete the challenge.
 
+If the Contestant cant access the Document File, email the Password got to the Email given at the end of the page.
+>Use Zapier:(https://the-riddle-master.zapier.app) for help in finding the clues and Answers
+
 <*/🔒 The Final Lock: Accessing the Reward File/*
 
 The ultimate goal is to gain access to a specific Google Drive File (Document or Sheet) that contains the final code.
@@ -29,7 +32,7 @@ The ultimate goal is to gain access to a specific Google Drive File (Document or
 
 >Access Method: The file itself is viewable, but the content within the file is encrypted or password-protected using the seven-part password you must discover.
 
->Link: The direct link to this file is provided here: [Insert Google Drive Shareable Link Here]
+>Link: The direct link to this file is provided here:(https://docs.google.com/document/d/10I9JBSt10OR9u5kWdojbSlFZLdcmPQ_Q/edit?usp=sharing&ouid=117809181080010608013&rtpof=true&sd=true)
 
 
 <*/🧩 The Password Structure: A Seven-Part Mystery/*
@@ -97,6 +100,9 @@ This project is maintained by "Project_Osint_Group" for educational purposes. Fo
 
 NOTICE:
 
-  Use every Social Media you can think of.
+>Use every Social Media you can think of.
 
-  Clues are : L X I F R P Y
+> Clues are : L X I F R P Y
+
+AGAIN:
+>Use Zapier:(https://the-riddle-master.zapier.app) for help in finding the clues and Answers
